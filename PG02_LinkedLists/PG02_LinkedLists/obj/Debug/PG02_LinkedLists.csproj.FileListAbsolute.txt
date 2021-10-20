@@ -1,0 +1,14 @@
+D:\FullSail\PG2\Programming-2\PG02_LinkedLists\PG02_LinkedLists\bin\Debug\PG02_LinkedLists.dll.config
+D:\FullSail\PG2\Programming-2\PG02_LinkedLists\PG02_LinkedLists\bin\Debug\PG02_LinkedLists.dll
+D:\FullSail\PG2\Programming-2\PG02_LinkedLists\PG02_LinkedLists\bin\Debug\PG02_LinkedLists.pdb
+D:\FullSail\PG2\Programming-2\PG02_LinkedLists\PG02_LinkedLists\obj\Debug\PG02_LinkedLists.csproj.AssemblyReference.cache
+D:\FullSail\PG2\Programming-2\PG02_LinkedLists\PG02_LinkedLists\obj\Debug\PG02_LinkedLists.csproj.CoreCompileInputs.cache
+D:\FullSail\PG2\Programming-2\PG02_LinkedLists\PG02_LinkedLists\obj\Debug\PG02_LinkedLists.dll
+D:\FullSail\PG2\Programming-2\PG02_LinkedLists\PG02_LinkedLists\obj\Debug\PG02_LinkedLists.pdb
+D:\FullSail\PG2\Completed PG2 Code Assignments\PG02_LinkedLists\PG02_LinkedLists\bin\Debug\PG02_LinkedLists.dll.config
+D:\FullSail\PG2\Completed PG2 Code Assignments\PG02_LinkedLists\PG02_LinkedLists\bin\Debug\PG02_LinkedLists.dll
+D:\FullSail\PG2\Completed PG2 Code Assignments\PG02_LinkedLists\PG02_LinkedLists\bin\Debug\PG02_LinkedLists.pdb
+D:\FullSail\PG2\Completed PG2 Code Assignments\PG02_LinkedLists\PG02_LinkedLists\obj\Debug\PG02_LinkedLists.csproj.AssemblyReference.cache
+D:\FullSail\PG2\Completed PG2 Code Assignments\PG02_LinkedLists\PG02_LinkedLists\obj\Debug\PG02_LinkedLists.csproj.CoreCompileInputs.cache
+D:\FullSail\PG2\Completed PG2 Code Assignments\PG02_LinkedLists\PG02_LinkedLists\obj\Debug\PG02_LinkedLists.dll
+D:\FullSail\PG2\Completed PG2 Code Assignments\PG02_LinkedLists\PG02_LinkedLists\obj\Debug\PG02_LinkedLists.pdb
