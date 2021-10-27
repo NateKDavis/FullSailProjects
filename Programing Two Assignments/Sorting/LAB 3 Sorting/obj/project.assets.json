@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\FullSail\\PG2\\Completed PG2 Code Assignments\\LAB 3 Sorting\\LAB 3 Sorting\\LAB 3 Sorting.csproj",
+      "projectUniqueName": "D:\\FullSail\\PG2\\Completed PG2 Code Assignments\\Programing Two Assignments\\Sorting\\LAB 3 Sorting\\LAB 3 Sorting.csproj",
       "projectName": "LAB 3 Sorting",
-      "projectPath": "D:\\FullSail\\PG2\\Completed PG2 Code Assignments\\LAB 3 Sorting\\LAB 3 Sorting\\LAB 3 Sorting.csproj",
+      "projectPath": "D:\\FullSail\\PG2\\Completed PG2 Code Assignments\\Programing Two Assignments\\Sorting\\LAB 3 Sorting\\LAB 3 Sorting.csproj",
       "packagesPath": "C:\\Users\\nated\\.nuget\\packages\\",
-      "outputPath": "D:\\FullSail\\PG2\\Completed PG2 Code Assignments\\LAB 3 Sorting\\LAB 3 Sorting\\obj\\",
+      "outputPath": "D:\\FullSail\\PG2\\Completed PG2 Code Assignments\\Programing Two Assignments\\Sorting\\LAB 3 Sorting\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nated\\AppData\\Roaming\\NuGet\\NuGet.Config",
