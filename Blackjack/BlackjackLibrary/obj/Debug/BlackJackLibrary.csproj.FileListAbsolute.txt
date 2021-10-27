@@ -1,0 +1,12 @@
+D:\FullSail\PG2\PG2_Code\Blackjack\BlackjackLibrary\bin\Debug\BlackjackLibrary.dll
+D:\FullSail\PG2\PG2_Code\Blackjack\BlackjackLibrary\bin\Debug\BlackjackLibrary.pdb
+D:\FullSail\PG2\PG2_Code\Blackjack\BlackjackLibrary\obj\Debug\BlackJackLibrary.csproj.AssemblyReference.cache
+D:\FullSail\PG2\PG2_Code\Blackjack\BlackjackLibrary\obj\Debug\BlackJackLibrary.csproj.CoreCompileInputs.cache
+D:\FullSail\PG2\PG2_Code\Blackjack\BlackjackLibrary\obj\Debug\BlackjackLibrary.dll
+D:\FullSail\PG2\PG2_Code\Blackjack\BlackjackLibrary\obj\Debug\BlackjackLibrary.pdb
+D:\FullSail\PG2\Programming-2\Blackjack\BlackjackLibrary\bin\Debug\BlackjackLibrary.dll
+D:\FullSail\PG2\Programming-2\Blackjack\BlackjackLibrary\bin\Debug\BlackjackLibrary.pdb
+D:\FullSail\PG2\Programming-2\Blackjack\BlackjackLibrary\obj\Debug\BlackJackLibrary.csproj.AssemblyReference.cache
+D:\FullSail\PG2\Programming-2\Blackjack\BlackjackLibrary\obj\Debug\BlackJackLibrary.csproj.CoreCompileInputs.cache
+D:\FullSail\PG2\Programming-2\Blackjack\BlackjackLibrary\obj\Debug\BlackjackLibrary.dll
+D:\FullSail\PG2\Programming-2\Blackjack\BlackjackLibrary\obj\Debug\BlackjackLibrary.pdb
