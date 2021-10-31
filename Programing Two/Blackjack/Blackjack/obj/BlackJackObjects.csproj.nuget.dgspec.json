@@ -1,0 +1,76 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\FullSail\\Completed Assignments\\Completed\\Programing Two\\Blackjack\\Blackjack\\BlackJackObjects.csproj": {}
+  },
+  "projects": {
+    "D:\\FullSail\\Completed Assignments\\Completed\\Programing Two\\Blackjack\\BlackjackLibrary\\BlackJackLibrary.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\FullSail\\Completed Assignments\\Completed\\Programing Two\\Blackjack\\BlackjackLibrary\\BlackJackLibrary.csproj",
+        "projectName": "BlackJackLibrary",
+        "projectPath": "D:\\FullSail\\Completed Assignments\\Completed\\Programing Two\\Blackjack\\BlackjackLibrary\\BlackJackLibrary.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "D:\\FullSail\\Completed Assignments\\Completed\\Programing Two\\Blackjack\\Blackjack\\BlackJackObjects.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\FullSail\\Completed Assignments\\Completed\\Programing Two\\Blackjack\\Blackjack\\BlackJackObjects.csproj",
+        "projectName": "BlackJackObjects",
+        "projectPath": "D:\\FullSail\\Completed Assignments\\Completed\\Programing Two\\Blackjack\\Blackjack\\BlackJackObjects.csproj",
+        "packagesPath": "C:\\Users\\nated\\.nuget\\packages\\",
+        "outputPath": "D:\\FullSail\\Completed Assignments\\Completed\\Programing Two\\Blackjack\\Blackjack\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nated\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\FullSail\\Completed Assignments\\Completed\\Programing Two\\Blackjack\\BlackjackLibrary\\BlackJackLibrary.csproj": {
+                "projectPath": "D:\\FullSail\\Completed Assignments\\Completed\\Programing Two\\Blackjack\\BlackjackLibrary\\BlackJackLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
