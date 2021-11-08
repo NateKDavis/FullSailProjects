@@ -1,0 +1,4 @@
+1. Run to know how many leaks there are roughly. 
+2. Look through code to find anywhere new is not needed.
+3. Look for new in the code and ensure there is at least one delete per new. 
+4. Used _CrtSetBreakAlloc(); to check the error at the bottom of the output, fixed the issue, repeated.
