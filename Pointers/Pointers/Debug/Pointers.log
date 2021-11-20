@@ -1,3 +1,0 @@
-﻿  Pointers.cpp
-D:\FullSail\Systems Programming\Pointers\Pointers\Pointers.cpp(252,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-  Pointers.vcxproj -> D:\FullSail\Systems Programming\Pointers\Debug\Pointers.exe
