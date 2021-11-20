@@ -1,0 +1,2 @@
+﻿  Part Duex.cpp
+D:\FullSail\SysPg\Part Duex\Part Duex\Part Duex.cpp(13): error C4700: uninitialized local variable 'i' used

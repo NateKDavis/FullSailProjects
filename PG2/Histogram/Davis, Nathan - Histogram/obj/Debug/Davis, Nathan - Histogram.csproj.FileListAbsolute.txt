@@ -1,0 +1,22 @@
+D:\FullSail\PG2\PG2_Code\Davis, Nathan - Histogram\Davis, Nathan - Histogram\bin\Debug\Davis, Nathan - Histogram.exe.config
+D:\FullSail\PG2\PG2_Code\Davis, Nathan - Histogram\Davis, Nathan - Histogram\bin\Debug\Davis, Nathan - Histogram.exe
+D:\FullSail\PG2\PG2_Code\Davis, Nathan - Histogram\Davis, Nathan - Histogram\bin\Debug\Davis, Nathan - Histogram.pdb
+D:\FullSail\PG2\PG2_Code\Davis, Nathan - Histogram\Davis, Nathan - Histogram\obj\Debug\Davis, Nathan - Histogram.csproj.AssemblyReference.cache
+D:\FullSail\PG2\PG2_Code\Davis, Nathan - Histogram\Davis, Nathan - Histogram\obj\Debug\Davis, Nathan - Histogram.csproj.CoreCompileInputs.cache
+D:\FullSail\PG2\PG2_Code\Davis, Nathan - Histogram\Davis, Nathan - Histogram\obj\Debug\Davis, Nathan - Histogram.exe
+D:\FullSail\PG2\PG2_Code\Davis, Nathan - Histogram\Davis, Nathan - Histogram\obj\Debug\Davis, Nathan - Histogram.pdb
+D:\FullSail\PG2\PG2_Code\Davis, Nathan - Histogram\Davis, Nathan - Histogram\bin\Debug\speech.csv
+D:\FullSail\PG2\PG2_Code\Davis, Nathan - Histogram\Davis, Nathan - Histogram\bin\Debug\Newtonsoft.Json.dll
+D:\FullSail\PG2\PG2_Code\Davis, Nathan - Histogram\Davis, Nathan - Histogram\bin\Debug\Newtonsoft.Json.xml
+D:\FullSail\PG2\PG2_Code\Davis, Nathan - Histogram\Davis, Nathan - Histogram\obj\Debug\Davis, Nathan - Histogram.csproj.CopyComplete
+D:\FullSail\Repo\PG2\Histogram\Davis, Nathan - Histogram\bin\Debug\speech.csv
+D:\FullSail\Repo\PG2\Histogram\Davis, Nathan - Histogram\bin\Debug\Davis, Nathan - Histogram.exe.config
+D:\FullSail\Repo\PG2\Histogram\Davis, Nathan - Histogram\bin\Debug\Davis, Nathan - Histogram.exe
+D:\FullSail\Repo\PG2\Histogram\Davis, Nathan - Histogram\bin\Debug\Davis, Nathan - Histogram.pdb
+D:\FullSail\Repo\PG2\Histogram\Davis, Nathan - Histogram\bin\Debug\Newtonsoft.Json.dll
+D:\FullSail\Repo\PG2\Histogram\Davis, Nathan - Histogram\bin\Debug\Newtonsoft.Json.xml
+D:\FullSail\Repo\PG2\Histogram\Davis, Nathan - Histogram\obj\Debug\Davis, Nathan - Histogram.csproj.AssemblyReference.cache
+D:\FullSail\Repo\PG2\Histogram\Davis, Nathan - Histogram\obj\Debug\Davis, Nathan - Histogram.csproj.CoreCompileInputs.cache
+D:\FullSail\Repo\PG2\Histogram\Davis, Nathan - Histogram\obj\Debug\Davis, Nathan - Histogram.csproj.CopyComplete
+D:\FullSail\Repo\PG2\Histogram\Davis, Nathan - Histogram\obj\Debug\Davis, Nathan - Histogram.exe
+D:\FullSail\Repo\PG2\Histogram\Davis, Nathan - Histogram\obj\Debug\Davis, Nathan - Histogram.pdb

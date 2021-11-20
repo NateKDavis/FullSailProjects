@@ -1,0 +1,5 @@
+﻿  Bit Manipulation.cpp
+D:\FullSail\Systems Programming\Bit Manipulation\Bit Manipulation\Bit Manipulation.cpp(43,31): warning C4554: '<<': check operator precedence for possible error; use parentheses to clarify precedence
+D:\FullSail\Systems Programming\Bit Manipulation\Bit Manipulation\Bit Manipulation.cpp(50,32): warning C4554: '<<': check operator precedence for possible error; use parentheses to clarify precedence
+D:\FullSail\Systems Programming\Bit Manipulation\Bit Manipulation\Bit Manipulation.cpp(57,31): warning C4554: '<<': check operator precedence for possible error; use parentheses to clarify precedence
+  Bit Manipulation.vcxproj -> D:\FullSail\Systems Programming\Bit Manipulation\Debug\Bit Manipulation.exe
